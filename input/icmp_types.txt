@@ -1,0 +1,18 @@
+0x0000 Echo Reply
+0x0003 Destination Unreachable
+0x0004 Source Quench
+0x0005 Redirect Message
+0x0008 Echo Request
+0x0009 Router Advertisement
+0x000A Router Solicitation
+0x000B Time Exceeded
+0x000C Parameter Problem: Bad IP header
+0x000D Timestamp
+0x000E Timestamp Reply
+0x000F Information Request
+0x0010 Information Reply
+0x0011 Adress Mask Request
+0x0012 Adress Mask Reply
+0x001E Traceroute
+0x002A Extended Echo Request
+0x002B Extended Echo Reply

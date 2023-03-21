@@ -1,0 +1,28 @@
+0x0000 Null LSAP
+0x0002 Individual LLC Sublayer Mgt
+0x0003 Group LLC Sublayer Mgt
+0x0004 SNA Path Control (individual)
+0x0005 SNA Path Control (group)
+0x0006 Reserved for DoD IP
+0x000E ProWay-LAN
+0x0018 Texas Instruments
+0x0042 IEEE 802.1 Bridge Spanning Tree Protocol
+0x004E EIA-RS 511
+0x005E ISI IP
+0x007E ISO 8208 (X.25 over IEEE 802.2 Type LLC)
+0x0080 Xerox Network Systems (XNS)
+0x0082 BACnet/Ethernet
+0x0086 Nestar
+0x008E ProWay-LAN (IEC 955)
+0x0098 ARPANET Address Resolution Protocol (ARP)
+0x00A6 RDE (route determination entity)
+0x00AA SNAP Extension Used
+0x00BC Banyan VINES
+0x00E0 Novell NetWare
+0x00F0 IBM NetBIOS
+0x00F4 IBM LAN Management (individual)
+0x00F5 IBM LAN Management (group)
+0x00F8 IBM Remote Program Load (RPL)
+0x00FA Ungermann-Bass
+0x00FE OSI Connectionless-mode Network Service: CLNP, ISIS, ESIS
+0x00FF Global DSAP (broadcast to all)
